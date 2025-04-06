@@ -1,0 +1,16 @@
+{
+  "name": "git101",
+  "version": "1.0.0",
+  "description": "You can customize this template to fit your project's needs. Let me know if you'd like help with any specific section!\r You can customize this template to fit your project's needs. Let me know if you'd like help with any specific section!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.8.4",
+    "express": "^5.1.0"
+  }
+}
