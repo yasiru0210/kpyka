@@ -1,6 +1,6 @@
 
-this is good branch
-i am the good developer who works correctly,and who studied hard.
+this is bad branch
+i am the bad developer who works correctly,and who studied hard.
 fwseifhbeidfg
 eigbiebgieg
 febfgiegi
